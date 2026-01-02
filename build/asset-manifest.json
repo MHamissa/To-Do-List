@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MHamissa/To-Do-List.git/static/css/main.5e3aea3c.css",
+    "main.js": "/MHamissa/To-Do-List.git/static/js/main.0ba96ff3.js",
+    "static/js/453.a672a1c0.chunk.js": "/MHamissa/To-Do-List.git/static/js/453.a672a1c0.chunk.js",
+    "index.html": "/MHamissa/To-Do-List.git/index.html",
+    "main.5e3aea3c.css.map": "/MHamissa/To-Do-List.git/static/css/main.5e3aea3c.css.map",
+    "main.0ba96ff3.js.map": "/MHamissa/To-Do-List.git/static/js/main.0ba96ff3.js.map",
+    "453.a672a1c0.chunk.js.map": "/MHamissa/To-Do-List.git/static/js/453.a672a1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3aea3c.css",
+    "static/js/main.0ba96ff3.js"
+  ]
+}
